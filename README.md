@@ -8,4 +8,3 @@ Open Marketplace is a modern e-commerce web application that enables users to:
 🔐 Secure authentication & authorization
 💳 Add to cart and checkout
 📦 Manage orders and inventory
-📊 Admin dashboard for marketplace control
