@@ -4,5 +4,4 @@ A scalable, AI-ready full-stack marketplace platform where users can buy, sell, 
 🚀 Overview
 Open Marketplace is a modern e-commerce web application that enables users to:
 🛍️ Browse and search products
-🧾 List products for sale
 💳 Add to cart and checkout
